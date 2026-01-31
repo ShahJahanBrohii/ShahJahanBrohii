@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## ABOUT ME:
-👨‍🎓 I am Shah Jahan, a passionate  backend Developer skilled in Ml and DL. Currently pursuing my Bachelor's in Computer Science.
+👨‍🎓 I am Shah Jahan, a passionate  backend Developer and mastering Ml and DL. Currently pursuing my Bachelor's in Computer Science.
 
 
 
